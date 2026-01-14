@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1768341108799,
+    "userId": 1,
+    "items": [
+      {
+        "id": 2,
+        "name": "Перчатки медицинские",
+        "price": 200,
+        "size": "M",
+        "image": "https://picsum.photos/300/200?random=2",
+        "quantity": 1
+      }
+    ],
+    "total": 200,
+    "shippingInfo": {
+      "name": "ывфв",
+      "address": "фыв",
+      "phone": "123"
+    },
+    "paymentInfo": {
+      "type": "cash",
+      "cardNumber": "",
+      "expiryDate": "",
+      "cvv": ""
+    },
+    "date": "2026-01-13T21:51:48.799Z"
+  },
+  {
+    "id": 1768423154372,
+    "userId": 1,
+    "items": [
+      {
+        "id": 5,
+        "name": "Маска медицинская",
+        "price": 50,
+        "size": "One Size",
+        "image": "https://picsum.photos/300/200?random=5",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Перчатки медицинские",
+        "price": 200,
+        "size": "S",
+        "image": "https://picsum.photos/300/200?random=2",
+        "quantity": 1
+      }
+    ],
+    "total": 250,
+    "shippingInfo": {
+      "name": "вавыа",
+      "address": "выаыв",
+      "phone": "12312"
+    },
+    "paymentInfo": {
+      "type": "cash",
+      "cardNumber": "",
+      "expiryDate": "",
+      "cvv": ""
+    },
+    "date": "2026-01-14T20:39:14.372Z"
+  }
+]
