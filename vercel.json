@@ -2,10 +2,10 @@
   "version": 2,
   "builds": [
     {
-      "src": "frontend/package.json",  // ← указать правильный путь
+      "src": "frontend/package.json",  
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "frontend/dist"     // ← папка dist внутри frontend
+        "distDir": "frontend/dist"  
       }
     }
   ],
